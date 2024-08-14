@@ -52,6 +52,8 @@ def mostrar_resultados(productos_por_categoria):
             print("Producto: " + producto)
         print("--------------------------------------------------------------------")
 
+
+
 # Bloque principal del programa
 print("*******************************************************************")
 print(" Programa: Organizá tu lista de compras. Ingresá los productos y su categoría")
